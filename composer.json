@@ -3,7 +3,9 @@
 	"description": "A simple clean framework",
 	"version": "0.0.1",
 	"repositories": [
-		"type": "vcs",	
-		"url": "https://github.com/hackyoung/leno"
+		{
+			"type": "vcs",	
+			"url": "https://github.com/hackyoung/test"
+		}
 	]
 }
